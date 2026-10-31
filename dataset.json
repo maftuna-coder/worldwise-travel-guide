@@ -1,0 +1,461 @@
+[
+ {
+  "n": "Japan",
+  "f": "🇯🇵",
+  "r": "Asia",
+  "cap": "Tokyo",
+  "cur": "Japanese yen",
+  "lang": "Japanese",
+  "s": 5,
+  "best": "Mar–May, Oct–Nov",
+  "hi": [
+   "Kyoto temples",
+   "Mount Fuji",
+   "Tokyo food culture"
+  ],
+  "warn": [
+   "Earthquakes and typhoons",
+   "Crowds at peak sightseeing spots"
+  ],
+  "law": "Some common medicines are restricted and drug laws are very strict"
+ },
+ {
+  "n": "Singapore",
+  "f": "🇸🇬",
+  "r": "Asia",
+  "cap": "Singapore",
+  "cur": "Singapore dollar",
+  "lang": "English, Malay, Mandarin, Tamil",
+  "s": 5,
+  "best": "Feb–Apr",
+  "hi": [
+   "Gardens by the Bay",
+   "Hawker centres"
+  ],
+  "warn": [
+   "Heat and humidity",
+   "Heavy fines for minor offences"
+  ],
+  "law": "Chewing gum sales are banned, littering is fined, drug offences carry severe penalties"
+ },
+ {
+  "n": "Iceland",
+  "f": "🇮🇸",
+  "r": "Europe",
+  "cap": "Reykjavík",
+  "cur": "Icelandic króna",
+  "lang": "Icelandic",
+  "s": 5,
+  "best": "Jun–Aug or Sep–Mar for aurora",
+  "hi": [
+   "Northern lights",
+   "Waterfalls",
+   "Geothermal lagoons"
+  ],
+  "warn": [
+   "Sudden weather and road closures",
+   "Volcanic activity and unsafe glacier trips"
+  ],
+  "law": "Off-road driving is illegal and heavily fined"
+ },
+ {
+  "n": "Switzerland",
+  "f": "🇨🇭",
+  "r": "Europe",
+  "cap": "Bern",
+  "cur": "Swiss franc",
+  "lang": "German, French, Italian",
+  "s": 5,
+  "best": "Jun–Sep or Dec–Mar",
+  "hi": [
+   "Alps",
+   "Lake Geneva",
+   "Scenic trains"
+  ],
+  "warn": [
+   "Very high prices",
+   "Avalanche risk off-piste"
+  ],
+  "law": "Night and Sunday quiet hours are enforced"
+ },
+ {
+  "n": "United Arab Emirates",
+  "f": "🇦🇪",
+  "r": "Asia",
+  "cap": "Abu Dhabi",
+  "cur": "UAE dirham",
+  "lang": "Arabic, English",
+  "s": 5,
+  "best": "Nov–Mar",
+  "hi": [
+   "Burj Khalifa",
+   "Sheikh Zayed Mosque",
+   "Desert safaris"
+  ],
+  "warn": [
+   "Extreme summer heat",
+   "Strict public conduct rules"
+  ],
+  "law": "Public affection, alcohol outside licensed venues and drug possession are tightly regulated"
+ },
+ {
+  "n": "Uzbekistan",
+  "f": "🇺🇿",
+  "r": "Asia",
+  "cap": "Tashkent",
+  "cur": "Uzbekistani soʻm",
+  "lang": "Uzbek, Russian",
+  "s": 4,
+  "best": "Apr–Jun, Sep–Oct",
+  "hi": [
+   "Samarkand Registan",
+   "Bukhara old town",
+   "Khiva"
+  ],
+  "warn": [
+   "Summer heat and winter cold",
+   "Petty theft in crowded markets"
+  ],
+  "law": "Stays are registered, usually by hotels; photography at sensitive sites can be restricted"
+ },
+ {
+  "n": "Portugal",
+  "f": "🇵🇹",
+  "r": "Europe",
+  "cap": "Lisbon",
+  "cur": "Euro",
+  "lang": "Portuguese",
+  "s": 5,
+  "best": "Mar–Jun, Sep–Oct",
+  "hi": [
+   "Lisbon trams",
+   "Porto wine cellars",
+   "Algarve coast"
+  ],
+  "warn": [
+   "Pickpockets in tourist areas",
+   "Summer wildfires"
+  ],
+  "law": "Carry ID; open-container rules vary by city"
+ },
+ {
+  "n": "Italy",
+  "f": "🇮🇹",
+  "r": "Europe",
+  "cap": "Rome",
+  "cur": "Euro",
+  "lang": "Italian",
+  "s": 4,
+  "best": "Apr–Jun, Sep–Oct",
+  "hi": [
+   "Colosseum",
+   "Venice canals",
+   "Tuscan hills"
+  ],
+  "warn": [
+   "Pickpocketing in cities",
+   "Heat waves and crowds"
+  ],
+  "law": "Sitting on historic monuments and fountains can bring fines"
+ },
+ {
+  "n": "France",
+  "f": "🇫🇷",
+  "r": "Europe",
+  "cap": "Paris",
+  "cur": "Euro",
+  "lang": "French",
+  "s": 3,
+  "best": "Apr–Jun, Sep–Oct",
+  "hi": [
+   "Eiffel Tower",
+   "Louvre",
+   "Provence villages"
+  ],
+  "warn": [
+   "Pickpocketing and scams in Paris",
+   "Strikes and protests"
+  ],
+  "law": "Public-order and face-covering rules apply; carry ID"
+ },
+ {
+  "n": "Spain",
+  "f": "🇪🇸",
+  "r": "Europe",
+  "cap": "Madrid",
+  "cur": "Euro",
+  "lang": "Spanish",
+  "s": 4,
+  "best": "Apr–Jun, Sep–Oct",
+  "hi": [
+   "Sagrada Família",
+   "Alhambra",
+   "Tapas culture"
+  ],
+  "warn": [
+   "Pickpocketing in Barcelona",
+   "Summer heat and wildfires"
+  ],
+  "law": "Public drinking and beach rules are enforced with local fines"
+ },
+ {
+  "n": "Germany",
+  "f": "🇩🇪",
+  "r": "Europe",
+  "cap": "Berlin",
+  "cur": "Euro",
+  "lang": "German",
+  "s": 4,
+  "best": "May–Sep",
+  "hi": [
+   "Brandenburg Gate",
+   "Bavarian castles",
+   "Christmas markets"
+  ],
+  "warn": [
+   "Pickpocketing at stations",
+   "Cyclists on shared paths"
+  ],
+  "law": "Nazi symbols are illegal; jaywalking is fined"
+ },
+ {
+  "n": "United Kingdom",
+  "f": "🇬🇧",
+  "r": "Europe",
+  "cap": "London",
+  "cur": "Pound sterling",
+  "lang": "English",
+  "s": 4,
+  "best": "May–Sep",
+  "hi": [
+   "Tower of London",
+   "Scottish Highlands",
+   "Pub culture"
+  ],
+  "warn": [
+   "Phone snatching in London",
+   "Changeable weather"
+  ],
+  "law": "Drive on the left; knives and some items are restricted in public"
+ },
+ {
+  "n": "United States",
+  "f": "🇺🇸",
+  "r": "North America",
+  "cap": "Washington, D.C.",
+  "cur": "US dollar",
+  "lang": "English",
+  "s": 3,
+  "best": "Varies by region",
+  "hi": [
+   "National parks",
+   "New York City",
+   "Road trips"
+  ],
+  "warn": [
+   "Gun violence and area-by-area crime",
+   "Very high medical costs without insurance"
+  ],
+  "law": "Laws vary by state; tipping is expected"
+ },
+ {
+  "n": "Canada",
+  "f": "🇨🇦",
+  "r": "North America",
+  "cap": "Ottawa",
+  "cur": "Canadian dollar",
+  "lang": "English, French",
+  "s": 5,
+  "best": "Jun–Sep or Dec–Mar",
+  "hi": [
+   "Banff and the Rockies",
+   "Niagara Falls",
+   "Montréal"
+  ],
+  "warn": [
+   "Wildlife encounters and extreme cold",
+   "Wildfire smoke in summer"
+  ],
+  "law": "Cannabis is legal but regulated by province and can’t cross borders"
+ },
+ {
+  "n": "Australia",
+  "f": "🇦🇺",
+  "r": "Oceania",
+  "cap": "Canberra",
+  "cur": "Australian dollar",
+  "lang": "English",
+  "s": 4,
+  "best": "Sep–Nov, Mar–May",
+  "hi": [
+   "Sydney Opera House",
+   "Great Barrier Reef",
+   "Uluru"
+  ],
+  "warn": [
+   "Dangerous wildlife and rip currents",
+   "Bushfires and strong sun"
+  ],
+  "law": "Strict biosecurity: undeclared food or plants bring large fines"
+ },
+ {
+  "n": "Turkey",
+  "f": "🇹🇷",
+  "r": "Asia",
+  "cap": "Ankara",
+  "cur": "Turkish lira",
+  "lang": "Turkish",
+  "s": 3,
+  "best": "Apr–Jun, Sep–Oct",
+  "hi": [
+   "Hagia Sophia",
+   "Cappadocia balloons",
+   "Turkish coast"
+  ],
+  "warn": [
+   "Earthquake risk",
+   "Taxi and bazaar overcharging"
+  ],
+  "law": "Insulting the state is an offence; exporting antiquities is illegal"
+ },
+ {
+  "n": "Egypt",
+  "f": "🇪🇬",
+  "r": "Africa",
+  "cap": "Cairo",
+  "cur": "Egyptian pound",
+  "lang": "Arabic",
+  "s": 3,
+  "best": "Oct–Apr",
+  "hi": [
+   "Pyramids of Giza",
+   "Luxor temples",
+   "Red Sea diving"
+  ],
+  "warn": [
+   "Touts and scams at tourist sites",
+   "Heat and regional travel advisories"
+  ],
+  "law": "Photographing military sites is prohibited; modest dress is expected"
+ },
+ {
+  "n": "Thailand",
+  "f": "🇹🇭",
+  "r": "Asia",
+  "cap": "Bangkok",
+  "cur": "Thai baht",
+  "lang": "Thai",
+  "s": 3,
+  "best": "Nov–Feb",
+  "hi": [
+   "Bangkok temples",
+   "Island beaches",
+   "Street food"
+  ],
+  "warn": [
+   "Road accidents and scooter injuries",
+   "Tourist scams and monsoon floods"
+  ],
+  "law": "Insulting the monarchy is a serious crime; vaping is restricted"
+ },
+ {
+  "n": "India",
+  "f": "🇮🇳",
+  "r": "Asia",
+  "cap": "New Delhi",
+  "cur": "Indian rupee",
+  "lang": "Hindi, English",
+  "s": 3,
+  "best": "Oct–Mar",
+  "hi": [
+   "Taj Mahal",
+   "Rajasthan forts",
+   "Kerala backwaters"
+  ],
+  "warn": [
+   "Air pollution and food-borne illness",
+   "Scams and chaotic traffic"
+  ],
+  "law": "Alcohol and drug laws vary by state; some areas need permits"
+ },
+ {
+  "n": "Mexico",
+  "f": "🇲🇽",
+  "r": "North America",
+  "cap": "Mexico City",
+  "cur": "Mexican peso",
+  "lang": "Spanish",
+  "s": 2,
+  "best": "Nov–Apr",
+  "hi": [
+   "Chichén Itzá",
+   "Mexico City food",
+   "Oaxaca"
+  ],
+  "warn": [
+   "Cartel violence in some states",
+   "Petty crime and unlicensed taxis"
+  ],
+  "law": "Carry ID; drug possession laws are strict"
+ },
+ {
+  "n": "Brazil",
+  "f": "🇧🇷",
+  "r": "South America",
+  "cap": "Brasília",
+  "cur": "Brazilian real",
+  "lang": "Portuguese",
+  "s": 2,
+  "best": "May–Oct",
+  "hi": [
+   "Rio de Janeiro",
+   "Amazon rainforest",
+   "Iguaçu Falls"
+  ],
+  "warn": [
+   "Street crime in big cities",
+   "Tropical diseases in some regions"
+  ],
+  "law": "Carry ID; yellow fever vaccination may be required for some areas"
+ },
+ {
+  "n": "South Africa",
+  "f": "🇿🇦",
+  "r": "Africa",
+  "cap": "Pretoria",
+  "cur": "South African rand",
+  "lang": "English and 10 other official languages",
+  "s": 2,
+  "best": "May–Sep",
+  "hi": [
+   "Table Mountain",
+   "Kruger safaris",
+   "Cape Winelands"
+  ],
+  "warn": [
+   "Violent crime in some areas",
+   "Water shortages and power cuts"
+  ],
+  "law": "Drive on the left; avoid walking alone at night in unfamiliar areas"
+ },
+ {
+  "n": "Morocco",
+  "f": "🇲🇦",
+  "r": "Africa",
+  "cap": "Rabat",
+  "cur": "Moroccan dirham",
+  "lang": "Arabic, Amazigh, French",
+  "s": 3,
+  "best": "Mar–May, Sep–Nov",
+  "hi": [
+   "Marrakech medina",
+   "Sahara dunes",
+   "Chefchaouen"
+  ],
+  "warn": [
+   "Aggressive touts and fake guides",
+   "Heat in inland areas"
+  ],
+  "law": "Public affection and alcohol are restricted; drug laws are strict"
+ }
+]
